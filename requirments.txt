@@ -1,3 +1,4 @@
-main_control.py
-requirements.txt
-README.md
+opencv-python
+mediapipe==0.10.9
+robodk
+numpy
